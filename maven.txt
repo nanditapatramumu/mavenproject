@@ -1,7 +1,7 @@
- mb ˛˘implenting maven project.
+jdi mb ˛˘implenting maven project.
 and generating package by giving command
 mvn package
 demomnstrating github webhook
 hgmx,gxhmfxy
 ,jgx,hgx,gm
-hello nandita
+hello world
