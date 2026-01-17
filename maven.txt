@@ -13,6 +13,4 @@ hiiiii
 hello e
 helooooo
 hiiiiii
-javaaaaaaa
-meeeeoooowwwww
-abcd
+javaaaaa
